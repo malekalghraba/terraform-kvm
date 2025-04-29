@@ -1,0 +1,4 @@
+version: 2
+ethernets:
+  virbro:
+    dhcp4: true
